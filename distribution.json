@@ -394,8 +394,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15929762,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/DynamicSurroundings-1.12.2-3.6.1.0.jar",
             "MD5": "1a0d50a34941865ff091a492e0612502"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -585,6 +589,16 @@
             "size": 53300,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/MicdoodleCore-1.12.2-4.0.2.280.jar",
             "MD5": "2b033cb0694a53ea7b80876e2f00dec5"
+          }
+        },
+        {
+          "id": "com.minecolonies.coremod:minecolonies:1.12.2-0.11.841-ALPHA@jar",
+          "name": "MineColonies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 34929750,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/minecolonies-1.12.2-0.11.841-ALPHA-universal.jar",
+            "MD5": "182825677199de55f2ce7b315162397c"
           }
         },
         {
