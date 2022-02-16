@@ -11,57 +11,15 @@
 <title>初期セットアップ完了</title>
 <link>https://github.com/WisteriaFloribunda/WisteriaLauncher/releases/tag/v1.9.1</link>
 <description>テストここ何表示されるのか不明なため</description><br>
-      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
-      <dc:creator>EStoop</dc:creator>
-      <content:encoded><![CDATA[<div class="bbWrapper"><b>Contest </b>| <i>A Life in Oldtown</i><br />
-Oldtown is the second largest city in Westeros, a city renowned for its affinity with trade and craftsmanship. Behind the neat facade of rich merchants, nobles and clergy lies the true backbone of the city; dockhands, craftsmen and unspecialised workers, the lowest of the lower classes.<br />
-<br />
-This contest will focus on the lives of the lower classes in Oldtown. How they live, where they work and what they do for pleasure. The goal is to make a final push to finish the style for the server build and set the groundworks to open up the first district for building. The warp to the contest grounds is /wrap otcontest.<br />
-<br />
-It’s advised to read the chapters about Plot types, Inspiration, Economy and Architecture of the <a href="https://drive.google.com/file/d/1KSzT0xjpNPmpp4aV-VjTtNStHZR-gq-K/view" target="_blank" class="link link--external" rel="noopener">Oldtown document</a>.<br />
-<br />
-As usual, Guests are allowed to compete as well! Please follow <a href="https://docs.google.com/forms/d/e/1FAIpQLScz7WwUccgZQDiq4SV-NioldxqQbuWRXgEbiXowCXnZWgteAg/viewform" target="_blank" class="link link--external" rel="noopener">this link</a> and leave us your username. Your submission will only count if you have been on our server before under that username. Builders do not need to fill in this form.<br />
-<br />
-Multiple submissions will be allowed, as well as co-ops. However, you can only receive a prize for one submission. Prizes for co-ops will be divided.<br />
-<br />
-<b>Judgement</b><br />
-Winners will be determined by IwanDeLarch, EStoop and the leaders of the active Oldtown teams, who will each award points for creativity, effort and faithfulness to the theme.<br />
-<br />
-<b>Prizes</b><br />
-Bragging rights and a forum flair: Master Architect of Oldtown<br />
-<br />
-<b>Contest period</b><br />
-The contest will start the 1st of Februari (which is today) and end the 1st of April.<br />
-<br />
-<a href="https://drive.google.com/drive/folders/1Hc8HhfJUc9hIFX8pNnM0hX7NDgwtOwM2" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/court_workshop_of_duke_ludwig_i_of_liegnitz_and_brieg_-polish_-_hedwig_and_the_new_convent-_nu-jpg.11992/"
-		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/11/11992-db4b9632fb986aad9008ef41f0109a16.jpg"
-		class="bbImage "
-		style=""
-		alt="Court_workshop_of_Duke_Ludwig_I_of_Liegnitz_and_Brieg_(Polish_-_Hedwig_and_the_New_Convent;_Nu...jpg"
-		title="Court_workshop_of_Duke_Ludwig_I_of_Liegnitz_and_Brieg_(Polish_-_Hedwig_and_the_New_Convent;_Nu...jpg"
-		width="145" height="100" loading="lazy" /></a></a></div>]]></content:encoded>
-      <slash:comments>4</slash:comments>
-    </item>
-    <item>
-      <title>The Rookery - Winter 2021 Update</title>
-      <pubDate>Sun, 23 Jan 2022 06:36:07 +0000</pubDate>
-      <link>https://forum.westeroscraft.com/threads/the-rookery-winter-2021-update.3225/</link>
-      <guid>https://forum.westeroscraft.com/threads/the-rookery-winter-2021-update.3225/</guid>
-      <author>invalid@example.com (lemonbear)</author>
-      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
-      <dc:creator>lemonbear</dc:creator>
-      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/79891690-54d2-45c3-a86a-bf2904f72810" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-winter-2021-png.11857/"
-		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/11/11857-218cb1726d1b99e80cccb9d69535b8aa.jpg"
-		class="bbImage "
-		style=""
-		alt="Rookery - Winter 2021.png"
-		title="Rookery - Winter 2021.png"
-		width="178" height="100" loading="lazy" /></a></a><br />
-(Image is the link)</div>]]></content:encoded>
-      <slash:comments>13</slash:comments>
-    </item>
+     
 
 <pubDate>2022/02/16 18:00 </pubDate>
 </item>
+
+<item>
+      <title>HUB鯖誕生</title>
+      <pubDate>Thu, 26 Nov 2020 07:37:43 +0000</pubDate>
+      <content:encoded><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/xUSReOYolf8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content:encoded>
+    </item>
 </channel>
 </rss>
