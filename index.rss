@@ -1,6 +1,6 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 <channel>
-<atom:link href="https://www.happyou.info/fs/gen.php?u=-1105946785&p=1653281489" rel="self" type="application/rss+xml"/>
 <title>ニュース</title>
     <description>アップデート情報</description>
     <pubDate>2022/02/16 18:00 </pubDate>
@@ -8,9 +8,10 @@
     <link>https://www.youtube.com/channel/UCFGBfKbAi0GQ2uVFG-QYyrg</link>
 
 <item>
-<title>日本語化完了・るかメンバー限定MODサーバーのセットアップ完了</title>
+<title>初期セットアップ完了</title>
 <link>https://github.com/WisteriaFloribunda/WisteriaLauncher/releases/tag/v1.9.1</link>
-<description>テストここ何表示されるのか不明なため</description>
+<description>テストここ何表示されるのか不明なため</description><br>
+テストここ何表示されるのか不明なため
 <pubDate>2022/02/16 18:00 </pubDate>
 </item>
 </channel>
