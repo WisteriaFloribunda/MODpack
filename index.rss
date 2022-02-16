@@ -12,6 +12,11 @@
 <link>https://github.com/WisteriaFloribunda/WisteriaLauncher/releases/tag/v1.9.1</link>
 <description>テストここ何表示されるのか不明なため</description><br>
 テストここ何表示されるのか不明なため
+<author>invalid@example.com (EStoop)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>EStoop</dc:creator>
+      <content:encoded>
+
 <pubDate>2022/02/16 18:00 </pubDate>
 </item>
 </channel>
