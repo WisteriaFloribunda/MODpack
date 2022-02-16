@@ -532,6 +532,19 @@
           }
         },
         {
+          "id": "invtweaks:inventorytweaks:1.63+release.109.220f184@jar",
+          "name": "Inventory Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 263258,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionalon/InventoryTweaks-1.63.jar",
+            "MD5": "1e2e33e5710394252abc4b014bc3dcbd"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mezz.jei:jei:4.16.1.301@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -655,6 +668,16 @@
             "size": 11360786,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Thaumcraft-1.12.2-6.1.BETA26.jar",
             "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6"
+          }
+        },
+        {
+          "id": "com.tiviacz:travelersbackpack:1.0.35@jar",
+          "name": "Traveler's Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397467,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/TravelersBackpack-1.12.2-1.0.35.jar",
+            "MD5": "ec9e10a72424dc0d0fd73e5af8d6544d"
           }
         },
         {
