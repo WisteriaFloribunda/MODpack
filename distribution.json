@@ -266,16 +266,6 @@
           ]
         },
         {
-          "id": "buildcraft.additionalpipes:additionalpipes:6.0.0.8@jar",
-          "name": "Additional Pipes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 227670,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/additionalpipes-6.0.0.8.jar",
-            "MD5": "4122cbeeae8738667008cb04828872c2"
-          }
-        },
-        {
           "id": "nightkosh.advanced_fishing:advanced-fishing:1.3.3@jar",
           "name": "Advanced Fishing",
           "type": "ForgeMod",
