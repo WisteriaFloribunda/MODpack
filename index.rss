@@ -2,15 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <title>News</title>
-    <description>Updates and Announcements</description>
+    <description>アップデートと新規情報</description>
     <pubDate>Wed, 16 Feb 2022 05:23:59 +0000</pubDate>
-    <lastBuildDate>Wed, 16 Feb 2022 05:23:59 +0000</lastBuildDate>
-    <generator>WesterosCraft Forums</generator>
-    <link>https://forum.westeroscraft.com/</link>
-    <atom:link rel="self" type="application/rss+xml" href="https://forum.westeroscraft.com/forum/news.2/index.rss"/>
+    <generator>Wisteria</generator>
+    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/WisteriaFloribunda/MODpack/main/index.rss"/>
     <item>
-      <title>Contest - A life in Oldtown</title>
-      <pubDate>Fri, 04 Feb 2022 21:36:49 +0000</pubDate>
+      <title>セットアップ完了</title>
       <dc:creator>Floribunda</dc:creator>
       <content:encoded><![CDATA[<div class="bbWrapper"><b>Contest </b>| <i>A Life in Oldtown</i><br />
 Oldtown is the second largest city in Westeros, a city renowned for its affinity with trade and craftsmanship. Behind the neat facade of rich merchants, nobles and clergy lies the true backbone of the city; dockhands, craftsmen and unspecialised workers, the lowest of the lower classes.<br />
