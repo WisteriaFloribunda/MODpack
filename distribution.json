@@ -404,8 +404,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10881050,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/ElectroblobsWizardry-4.3.4-MC1.12.2.jar",
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionalon/ElectroblobsWizardry-4.3.4-MC1.12.2.jar",
             "MD5": "a6cf1f36c230fbed2f4ef5b2db72d87a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
