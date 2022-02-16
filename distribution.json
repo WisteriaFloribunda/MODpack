@@ -8,23 +8,6 @@
   },
   "servers": [
     {
-      "id": "Luca1.18-1.18.1",
-      "name": "Luca配信1.18.1 (Minecraft 1.18.1)",
-      "description": "Luca1.18 Running Minecraft 1.18.1",
-      "icon": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/Luca1.18-1.18.1/Luca-icon.png",
-      "version": "1.0.0",
-      "address": "mc.tempce.com:25565",
-      "minecraftVersion": "1.18.1",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": true,
-      "modules": []
-    },
-    {
       "id": "LucaMOD-1.12.2",
       "name": "Lucaメンバー限定MOD",
       "description": "LucaMOD Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
@@ -38,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": false,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859:universal",
@@ -283,6 +266,16 @@
           ]
         },
         {
+          "id": "buildcraft.additionalpipes:additionalpipes:6.0.0.8@jar",
+          "name": "Additional Pipes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 227670,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/additionalpipes-6.0.0.8.jar",
+            "MD5": "4122cbeeae8738667008cb04828872c2"
+          }
+        },
+        {
           "id": "nightkosh.advanced_fishing:advanced-fishing:1.3.3@jar",
           "name": "Advanced Fishing",
           "type": "ForgeMod",
@@ -400,6 +393,16 @@
             "size": 10881050,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/ElectroblobsWizardry-4.3.4-MC1.12.2.jar",
             "MD5": "a6cf1f36c230fbed2f4ef5b2db72d87a"
+          }
+        },
+        {
+          "id": "extracells:extracells:2.6.5@jar",
+          "name": "Extra Cells 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2520745,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/ExtraCells-1.12.2-2.6.5.jar",
+            "MD5": "a96d3b8fd1cc8b41fdde9469bacc5c99"
           }
         },
         {
@@ -528,8 +531,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6990968,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1.jar",
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionalon/journeymap-1.12.2-5.7.1.jar",
             "MD5": "8160b970fc14cff30dff2785bb9f964c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -568,8 +574,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2669107,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
             "MD5": "54e561e441192cf009803ae95873c5d0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
