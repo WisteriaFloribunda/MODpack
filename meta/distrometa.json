@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/MODpackCreate/schemas/DistroMetaSchema.schema.json",
   "meta": {
-    "rss": "https://raw.githubusercontent.com/WisteriaFloribunda/MODpack/main/index.rss",
+    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "discord": {
       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
