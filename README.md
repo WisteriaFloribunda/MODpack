@@ -1,3 +1,5 @@
+MODPack作成するときに使うやつ
+
 # Nebula
 
 Generate a distribution.json for Helios. Documentation on this format can be found [here][distro.md].
