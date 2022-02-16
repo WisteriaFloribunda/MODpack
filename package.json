@@ -1,7 +1,7 @@
 {
-  "name": "nebula",
+  "name": "MODpack",
   "version": "0.1.0",
-  "description": "Utility package to generate a distribution.json for Helios.",
+  "description": "Temporary MODpack",
   "main": "dist/index.js",
   "scripts": {
     "clean": "rimraf dist",
@@ -14,19 +14,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/Nebula.git"
+    "url": "git+https://github.com/WisteriaFloribunda/MODpack/MODpack.git"
   },
   "keywords": [
     "helios",
-    "nebula",
+    "MODpack",
     "distribution"
   ],
   "author": "Daniel Scalzi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dscalzi/Nebula/issues"
+    "url": "https://github.com/WisteriaFloribunda/MODpack/MODpack/issues"
   },
-  "homepage": "https://github.com/dscalzi/Nebula#readme",
+  "homepage": "https://github.com/WisteriaFloribunda/MODpack/MODpack#readme",
   "devDependencies": {
     "@types/fs-extra": "^9.0.13",
     "@types/luxon": "^2.0.9",
