@@ -3,9 +3,9 @@
   "meta": {
     "rss": "https://raw.githubusercontent.com/WisteriaFloribunda/MODpack/main/index.rss",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "943710478457253888",
+      "smallImageText": "WisteriaLancher",
+      "smallImageKey": "るか鯖限定クライアント"
     }
   }
 }

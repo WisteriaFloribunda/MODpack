@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "https://raw.githubusercontent.com/WisteriaFloribunda/MODpack/main/index.rss",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "943710478457253888",
+    "smallImageText": "WisteriaLancher",
+    "smallImageKey": "るか鯖限定クライアント"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "mc.tempce.com:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "WisteriaLancher",
+        "largeImageText": "メンバー限定サーバー用MOD",
+        "largeImageKey": "バージョン1.12.2"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -725,9 +725,9 @@
       "address": "mc.tempce.com:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "WisteriaLancher",
+        "largeImageText": "るかサーバー通常参加",
+        "largeImageKey": "バージョン1.16.5"
       },
       "mainServer": true,
       "autoconnect": true,

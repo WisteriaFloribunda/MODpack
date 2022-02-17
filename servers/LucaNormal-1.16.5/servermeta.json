@@ -6,9 +6,9 @@
     "description": "LucaNormal Running Minecraft 1.16.5 (Forge v36.2.20)",
     "address": "mc.tempce.com:25565",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "WisteriaLancher",
+      "largeImageText": "るかサーバー通常参加",
+      "largeImageKey": "バージョン1.16.5"
     },
     "mainServer": true,
     "autoconnect": true
