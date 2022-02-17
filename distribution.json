@@ -4,21 +4,21 @@
   "discord": {
     "clientId": "943710478457253888",
     "smallImageText": "WisteriaLancher",
-    "smallImageKey": "るか鯖限定クライアント"
+    "smallImageKey": "SealCircle"
   },
   "servers": [
     {
       "id": "LucaMOD-1.12.2",
       "name": "Lucaメンバー限定MOD",
       "description": "LucaMOD Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/Luca-icon.png",
+      "icon": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/Lucaserver.png",
       "version": "1.0.0",
       "address": "mc.tempce.com:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "WisteriaLancher",
         "largeImageText": "メンバー限定サーバー用MOD",
-        "largeImageKey": "バージョン1.12.2"
+        "largeImageKey": "Lucaserver"
       },
       "mainServer": true,
       "autoconnect": true,
@@ -727,7 +727,7 @@
       "discord": {
         "shortId": "WisteriaLancher",
         "largeImageText": "るかサーバー通常参加",
-        "largeImageKey": "バージョン1.16.5"
+        "largeImageKey": "Luca-icon"
       },
       "mainServer": true,
       "autoconnect": true,
