@@ -8,20 +8,20 @@
   },
   "servers": [
     {
-      "id": "Luca1.17.1テスト-1.17.1",
-      "name": "Luca1.17.1テスト (Minecraft 1.17.1)",
-      "description": "Luca1.17.1テスト Running Minecraft 1.17.1",
+      "id": "Luca1.16.5-1.16.5",
+      "name": "Luca1.16.5 (Minecraft 1.16.5)",
+      "description": "Luca1.16.5 Running Minecraft 1.16.5",
       "icon": null,
       "version": "1.0.0",
       "address": "mc.tempce.com:25565",
-      "minecraftVersion": "1.17.1",
+      "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": []
     },
     {

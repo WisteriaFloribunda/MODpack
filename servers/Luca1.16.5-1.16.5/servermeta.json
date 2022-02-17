@@ -2,16 +2,16 @@
   "$schema": "file:///D:/MODpackCreate/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Luca1.17.1テスト (Minecraft 1.17.1)",
-    "description": "Luca1.17.1テスト Running Minecraft 1.17.1",
-    "address": "mc.tempce.com:25565",
+    "name": "Luca1.16.5 (Minecraft 1.16.5)",
+    "description": "Luca1.16.5 Running Minecraft 1.16.5",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": true,
-    "autoconnect": true
+    "mainServer": false,
+    "autoconnect": false
   },
   "untrackedFiles": []
 }
