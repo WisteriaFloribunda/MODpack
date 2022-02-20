@@ -612,13 +612,13 @@
           }
         },
         {
-          "id": "com.sintinium.oauth:oauth:1.1.12-1.18.1@jar",
-          "name": "Oauth",
+          "id": "com.sintinium:oauth:1.06.2@jar",
+          "name": "OAuth",
           "type": "ForgeMod",
           "artifact": {
-            "size": 93935,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/oauth-1.1.12-1.18.1.jar",
-            "MD5": "7133c7054c1727b84efb0002a0c99620"
+            "size": 50636,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/oauth-1.06.2.jar",
+            "MD5": "ebfa52ff86a4f14ea30d06468827e64b"
           }
         },
         {
