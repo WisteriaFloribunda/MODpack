@@ -309,6 +309,20 @@
           }
         },
         {
+          "id": "com.kreezcraft:badwithernocookiereloaded:1.12.2-3.4.18@jar",
+          "name": "Bad Wither No Cookie! Reloaded",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10402,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/badwithernocookiereloaded-1.12.2-3.4.18.jar",
+            "MD5": "04fe3b9759cb5435b0234fbbd32781d5"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "baubles:baubles:1.12-1.5.2@jar",
           "name": "Baubles",
           "type": "ForgeMod",
@@ -316,6 +330,16 @@
             "size": 108450,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
             "MD5": "944dec4ef3fbfd4d498d94a7047af201"
+          }
+        },
+        {
+          "id": "bedrocklayer.core:bedrocklayer:1.2.4@jar",
+          "name": "BedrockLayer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37793,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/BedrockLayer_1.11.2-v1.2.4.jar",
+            "MD5": "cd23e9ae12bfdd62b14865ededba47a2"
           }
         },
         {
@@ -356,6 +380,34 @@
             "size": 8690748,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Chocolate_Quest_Repoured-1.12.2-2.6.7B.jar",
             "MD5": "278503d8ba7212a4ed20c636141c3e52"
+          }
+        },
+        {
+          "id": "us.getfluxed.controlsearch:controlling:3.0.10@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29043,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/Controlling-3.0.10.jar",
+            "MD5": "7696135b09e93265ff190e1ee97a8257"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "net.blay09.mods:craftingtweaks:8.1.9@jar",
+          "name": "Crafting Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97854,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/CraftingTweaks_1.12.2-8.1.9.jar",
+            "MD5": "ffd1e2b5c4f244f4a7c6d4ee2e4c2090"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -433,6 +485,20 @@
             "size": 6278399,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Forgelin-1.8.4.jar",
             "MD5": "2da79fce72265eab0541e565636d389d"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:6.3.1@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2435626,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/furniture-6.3.1-1.12.2.jar",
+            "MD5": "7e4f4d160032658e095eff8221977800"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -559,6 +625,20 @@
           }
         },
         {
+          "id": "generated.forgemod:jeihider:1.1c@jar",
+          "name": "JEIHider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3660,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/JEIHider-1.1c.jar",
+            "MD5": "651930bf77c716e93aecb41985de9f20"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "journeymap:journeymap:1.12.2-5.7.1@jar",
           "name": "JourneyMap",
           "type": "ForgeMod",
@@ -602,6 +682,16 @@
           }
         },
         {
+          "id": "net.quetzi:morpheus:1.12.2-3.5.106@jar",
+          "name": "Morpheus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21508,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Morpheus-1.12.2-3.5.106.jar",
+            "MD5": "357dc3701a8c7d4109147c666f6a4300"
+          }
+        },
+        {
           "id": "vazkii.neat:neat:1.4-17@jar",
           "name": "Neat",
           "type": "ForgeMod",
@@ -619,6 +709,20 @@
             "size": 50636,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/oauth-1.06.2.jar",
             "MD5": "ebfa52ff86a4f14ea30d06468827e64b"
+          }
+        },
+        {
+          "id": "openeye:OpenEye:0.8@jar",
+          "name": "OpenEye",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 191712,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/OpenEye-1.12.2-0.8.jar",
+            "MD5": "66ec07363bab50f62e1a7c671df2d758"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -665,6 +769,20 @@
           }
         },
         {
+          "id": "io.github.lxgaming:sledgehammer:1.12.2-2.0.16@jar",
+          "name": "Sledgehammer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2223390,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/Sledgehammer-1.12.2-2.0.16.jar",
+            "MD5": "8128f725475ef1b6c8f7c636134738b1"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
@@ -692,6 +810,20 @@
             "size": 11360786,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Thaumcraft-1.12.2-6.1.BETA26.jar",
             "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6"
+          }
+        },
+        {
+          "id": "com.blamejared:tipthescales:1.12.2-1.0.4@jar",
+          "name": "TipTheScales",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11641,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/TipTheScales-1.12.2-1.0.4.jar",
+            "MD5": "eb4bba23a510da1a6f9c4e916c45714f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
