@@ -493,12 +493,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2435626,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/furniture-6.3.1-1.12.2.jar",
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/furniture-6.3.1-1.12.2.jar",
             "MD5": "7e4f4d160032658e095eff8221977800"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
