@@ -1212,6 +1212,956 @@
           }
         }
       ]
+    },
+    {
+      "id": "private-1.12.2",
+      "name": "private (Minecraft 1.12.2)",
+      "description": "private Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2859:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 4466108,
+            "MD5": "fda01cd3cae80c2c6348ac3fc26e0af8",
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2859/forge-1.12.2-14.23.5.2859-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.12.2-14.23.5.2859",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 12345,
+                "MD5": "1959bb357e54a9666dd80d744b524639",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/versions/1.12.2-forge-14.23.5.2859/1.12.2-forge-14.23.5.2859.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-debug-all:5.2@jar",
+              "name": "Minecraft Forge (asm-debug-all)",
+              "type": "Library",
+              "artifact": {
+                "size": 387903,
+                "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.5.1@jar",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 614590,
+                "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+              }
+            },
+            {
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
+              "type": "Library",
+              "artifact": {
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
+              "type": "Library",
+              "artifact": {
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "java3d:vecmath:1.5.2@jar",
+              "name": "Minecraft Forge (vecmath)",
+              "type": "Library",
+              "artifact": {
+                "size": 318956,
+                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+              }
+            },
+            {
+              "id": "net.sf.trove4j:trove4j:3.0.3@jar",
+              "name": "Minecraft Forge (trove4j)",
+              "type": "Library",
+              "artifact": {
+                "size": 2523218,
+                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.5.3@jar",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 54961,
+                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.3@jar",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78175,
+                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-api:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-api)",
+              "type": "Library",
+              "artifact": {
+                "size": 301804,
+                "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 1789769,
+                "MD5": "81e0433ae00602c0e4d00424d213b0ab",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-slf4j18-impl:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-slf4j18-impl)",
+              "type": "Library",
+              "artifact": {
+                "size": 21223,
+                "MD5": "196442f1bdde4dbb0f576eed616e21b0",
+                "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "buildcraft.additionalpipes:additionalpipes:6.0.0.8@jar",
+          "name": "Additional Pipes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 227670,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/additionalpipes-6.0.0.8.jar",
+            "MD5": "4122cbeeae8738667008cb04828872c2"
+          }
+        },
+        {
+          "id": "com.animania:animania:2.0.3.28@jar",
+          "name": "Animania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1626689,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/animania-1.12.2-base-2.0.3.28.jar",
+            "MD5": "cf5ee25c687a45af26a8bf4f6dbab54e"
+          }
+        },
+        {
+          "id": "generated.forgemod:animania:1.12.2-catsdogs-1.0.0.28@jar",
+          "name": "Animania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 554151,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/animania-1.12.2-catsdogs-1.0.0.28.jar",
+            "MD5": "a2fda4c84813534ec162c40995ed3a6f"
+          }
+        },
+        {
+          "id": "generated.forgemod:animania:1.12.2-extra-1.0.2.28@jar",
+          "name": "Animania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1926227,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/animania-1.12.2-extra-1.0.2.28.jar",
+            "MD5": "3e508ba8009518284b66d88d72637bd6"
+          }
+        },
+        {
+          "id": "generated.forgemod:animania:1.12.2-farm-1.0.2.28@jar",
+          "name": "Animania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5530204,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/animania-1.12.2-farm-1.0.2.28.jar",
+            "MD5": "834630c97ef1557278bd558abea746b8"
+          }
+        },
+        {
+          "id": "squeek.applecore:applecore:3.4.0@jar",
+          "name": "AppleCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 89615,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/AppleCore-mc1.12.2-3.4.0.jar",
+            "MD5": "a8dd635a81fed59be0d18206fd383f6e"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:1.0.14@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33683,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/AppleSkin-mc1.12-1.0.14.jar",
+            "MD5": "b435860d5cfa23bc53d3b8e120be91d4"
+          }
+        },
+        {
+          "id": "appeng.core:appliedenergistics2:rv6-stable-7@jar",
+          "name": "Applied Energistics 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4062630,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar",
+            "MD5": "b8667d60a761d5b5ae3c8a15192f9e28"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4746208,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+            "MD5": "9d364be3df6fee338c1729b7fb1def1b"
+          }
+        },
+        {
+          "id": "wayoftime.bloodmagic:bloodmagic:1.12.2-2.4.3-105@jar",
+          "name": "Blood Magic: Alchemical Wizardry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7208594,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/BloodMagic-1.12.2-2.4.3-105.jar",
+            "MD5": "90f67913247c8cf549836d724efc87fc"
+          }
+        },
+        {
+          "id": "buildcraft.compat:buildcraftlib:7.99.24.8@jar",
+          "name": "BuildCraft Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4879732,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/buildcraft-all-7.99.24.8.jar",
+            "MD5": "df73e94d29b8c6bde42c451ff6018761"
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:chameleon:1.12-4.1.3@jar",
+          "name": "Chameleon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96859,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Chameleon-1.12-4.1.3.jar",
+            "MD5": "e42efa8f4fd42d2918128a826b740e98"
+          }
+        },
+        {
+          "id": "team.cqr:cqrepoured:2.6.7B@jar",
+          "name": "Chocolate Quest Repoured Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8690748,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Chocolate_Quest_Repoured-1.12.2-2.6.7B.jar",
+            "MD5": "278503d8ba7212a4ed20c636141c3e52"
+          }
+        },
+        {
+          "id": "com.blamejared:clumps:3.1.2@jar",
+          "name": "Clumps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13792,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Clumps-3.1.2.jar",
+            "MD5": "e0c4c4f04aeb0e0a48fc7534f9e7d6be"
+          }
+        },
+        {
+          "id": "codechicken.lib:codechickenlib:3.2.3.358@jar",
+          "name": "CodeChicken Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 704330,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+            "MD5": "3b5e44db5ac96fb23a439590b6731a31"
+          }
+        },
+        {
+          "id": "cofh:cofhcore:4.6.6.1@jar",
+          "name": "CoFH Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 848187,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+            "MD5": "f147d3b87f97bb317e1c37cba0dde002"
+          }
+        },
+        {
+          "id": "cofh.cofhworld:cofhworld:1.4.0.1@jar",
+          "name": "CoFH World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 505987,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+            "MD5": "f2bfd74e76b71bdee8a20a9243dd5cdf"
+          }
+        },
+        {
+          "id": "extendedrenderer:coroutil:1.12.1-1.2.37@jar",
+          "name": "CoroUtil Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2327451,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/coroutil-1.12.1-1.2.37.jar",
+            "MD5": "350c216784bb54cffc538325ab52d4cc"
+          }
+        },
+        {
+          "id": "com.leviathanstudio.craftstudio:craftstudioapi:1.0.1@jar",
+          "name": "CraftStudio API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90465,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar",
+            "MD5": "e6dcc9b9784d52aa67f6e706eccb2cb2"
+          }
+        },
+        {
+          "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
+          "name": "CTM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199045,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/CTM-MC1.12.2-1.0.2.31.jar",
+            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
+          }
+        },
+        {
+          "id": "net.mcreator:designersdreamint:1.3.14@jar",
+          "name": "Designer's Dream: Interior",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61407851,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/designers_dream_int-mc1.12.2-v1.3.14.jar",
+            "MD5": "237a71771e3c205b69da2cd5242353bc"
+          }
+        },
+        {
+          "id": "org.dimdev:dimdoors:3.0.9@jar",
+          "name": "Dimensional Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7714476,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/DimensionalDoors-3.0.9-287.jar",
+            "MD5": "fcc5854114dd4d8edc58a1f71d641ea9"
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:1.12.2-3.6.1.0@jar",
+          "name": "Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15929762,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "MD5": "1a0d50a34941865ff091a492e0612502"
+          }
+        },
+        {
+          "id": "com.enderio.core:endercore:1.12.2-0.5.76@jar",
+          "name": "EnderCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 647959,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/EnderCore-1.12.2-0.5.76.jar",
+            "MD5": "6164be012de6ee761e37f54a74074125"
+          }
+        },
+        {
+          "id": "crazypants.enderio.base:enderio:5.3.70@jar",
+          "name": "Ender IO",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8946575,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/EnderIO-1.12.2-5.3.70.jar",
+            "MD5": "c74737e1b943ca1b94265f0bc8f1c6cc"
+          }
+        },
+        {
+          "id": "net.olafkeijsers:fastleafdecay:v14@jar",
+          "name": "FastLeafDecay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5200,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/FastLeafDecay-v14.jar",
+            "MD5": "18096ffb7f58d94f8e5a7bf2ff160f0f"
+          }
+        },
+        {
+          "id": "net.thesilkminer.mc:fermion:1.0.2+hotfix.testless@jar",
+          "name": "Fermion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 343739,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Fermion-1.0.2+hotfix.testless.jar",
+            "MD5": "71d2d0a743134ef7cb19b6eb33e05867"
+          }
+        },
+        {
+          "id": "net.shadowfacts:forgelin:1.8.4@jar",
+          "name": "Shadowfacts' Forgelin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6278399,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Forgelin-1.8.4.jar",
+            "MD5": "2da79fce72265eab0541e565636d389d"
+          }
+        },
+        {
+          "id": "thedarkcolour.futuremc:futuremc:0.2.8@jar",
+          "name": "Future MC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14174238,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/future-mc-0.2.8.jar",
+            "MD5": "988237be634a518f7c258f708937f358"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib3:3.0.20@jar",
+          "name": "GeckoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3681900,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/geckolib-forge-1.12.2-3.0.21.jar",
+            "MD5": "b890d2bd0540c4b47fcc5cc8ec988550"
+          }
+        },
+        {
+          "id": "de.maxhenkel:gravestone:1.10.3@jar",
+          "name": "Gravestone Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129433,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/gravestone-1.10.3.jar",
+            "MD5": "44c8e473abb93250df0f51fc0b050041"
+          }
+        },
+        {
+          "id": "amerifrance.guideapi:guideapi:1.12-2.1.8-63@jar",
+          "name": "Guide-API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 169528,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Guide-API-1.12-2.1.8-63.jar",
+            "MD5": "117d3d825059fceb0c1d04f8701beb00"
+          }
+        },
+        {
+          "id": "mcp.mobius:waila:1.8.26@jar",
+          "name": "Waila",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 453778,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Hwyla-1.8.26-B41_1.12.2.jar",
+            "MD5": "bca1c069d9171d331d211d24e8a3b770"
+          }
+        },
+        {
+          "id": "ic2.core:ic2:2.8.170-ex112@jar",
+          "name": "IndustrialCraft 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8356436,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/industrialcraft-2-2.8.170-ex112.jar",
+            "MD5": "d4f952c94cacdd280abbb73f072b2424"
+          }
+        },
+        {
+          "id": "invtweaks:inventorytweaks:1.63+release.109.220f184@jar",
+          "name": "Inventory Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 263258,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/InventoryTweaks-1.63.jar",
+            "MD5": "1e2e33e5710394252abc4b014bc3dcbd"
+          }
+        },
+        {
+          "id": "gr8pefish.ironbackpacks:ironbackpacks:1.12.2-3.0.8-12@jar",
+          "name": "Iron Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465363,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/IronBackpacks-1.12.2-3.0.8-12.jar",
+            "MD5": "9fd50b1827b711704c69789aa94ac2ca"
+          }
+        },
+        {
+          "id": "cpw.mods:ironchest:1.12.2-7.0.72.847@jar",
+          "name": "Iron Chests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 956692,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
+            "MD5": "743179bc3a8f50751efbb019acc759a9"
+          }
+        },
+        {
+          "id": "ivorius.ivtoolkit:IvToolkit:1.3.3-1.12@jar",
+          "name": "IvToolkit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 455763,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/IvToolkit-1.3.3-1.12.jar",
+            "MD5": "f1a23cb6eaa682240c0ecdab65e7857f"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:4.16.1.301@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 653211,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/jei_1.12.2-4.16.1.301.jar",
+            "MD5": "1dee4be93d666e2228039c551e927b35"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.12.2-5.7.1@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6990968,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1.jar",
+            "MD5": "8160b970fc14cff30dff2785bb9f964c"
+          }
+        },
+        {
+          "id": "slimeknights.mantle:mantle:1.3.3.55@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 843486,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Mantle-1.12-1.3.3.55.jar",
+            "MD5": "1026f5f8d3c4997831decd9023ca65a6"
+          }
+        },
+        {
+          "id": "mekanism:mekanism:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7863657,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar",
+            "MD5": "e622b8365b9a1190b3b6cc042854e870"
+          }
+        },
+        {
+          "id": "mekanism.generators:mekanismgenerators:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 336364,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+          }
+        },
+        {
+          "id": "mekanism.tools:mekanismtools:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Tools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159785,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar",
+            "MD5": "0095f13a729ce5873319e36e29a5b5e1"
+          }
+        },
+        {
+          "id": "cn.mcmod_mmf.mmlib:mm_lib:2.3.0@jar",
+          "name": "Mysterious Mountain Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 286720,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/MMLib-2.3.0.jar",
+            "MD5": "55c095da05b0f4a25b2e75745ada094f"
+          }
+        },
+        {
+          "id": "com.chaosthedude:naturescompass:1.12.2-1.8.5@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 196434,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/NaturesCompass-1.12.2-1.8.5.jar",
+            "MD5": "3dbb990c72a185c9b9aeca7f3094eb21"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
+          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib Support Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341728,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/OreLib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          }
+        },
+        {
+          "id": "com.pam:harvestcraft:1.12.2zg@jar",
+          "name": "Pam's HarvestCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4912890,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Pam's%20HarvestCraft%201.12.2zg.jar",
+            "MD5": "e8e1ac67accdeea50116e1e92e592397"
+          }
+        },
+        {
+          "id": "vazkii.patchouli.common.base:patchouli:1.0-23.6@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 472464,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Patchouli-1.0-23.6.jar",
+            "MD5": "5450477c1ce7189c5ee11595d5e03a7c"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.phosphor.mod:phosphor-lighting:1.12.2-0.2.6@jar",
+          "name": "Phosphor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1082311,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/phosphor-1.12.2-0.2.6+build50-universal.jar",
+            "MD5": "9892af4ac4f8ca4222138a245592227c"
+          }
+        },
+        {
+          "id": "me.ferdz:placeableitems:3.3@jar",
+          "name": "Placeable Items Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 610245,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/placeableitems-3.3.jar",
+            "MD5": "16521efbb0024592c1f0577f284a223d"
+          }
+        },
+        {
+          "id": "moze_intel.projecte:projecte:1.12.2-PE1.4.1@jar",
+          "name": "ProjectE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1812973,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/ProjectE-1.12.2-PE1.4.1.jar",
+            "MD5": "4601ba2741f192bcd01d132aa3e219b5"
+          }
+        },
+        {
+          "id": "meldexun.reachfix.asm:reachfix:1.12.2-1.0.3@jar",
+          "name": "ReachFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 34016,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/ReachFix-1.12.2-1.0.3.jar",
+            "MD5": "cbaba77c1800b5a2fce1afe8322cef7c"
+          }
+        },
+        {
+          "id": "ivorius.reccomplex:reccomplex:1.4.8.2@jar",
+          "name": "Recurrent Complex",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7076645,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/RecurrentComplex-1.4.8.2.jar",
+            "MD5": "821b38ba97b03eb79d64db797db67dac"
+          }
+        },
+        {
+          "id": "cofh.redstoneflux:redstoneflux:2.1.1.1@jar",
+          "name": "Redstone Flux",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31802,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+            "MD5": "93b1715f05be1878da93fca36dd37f2a"
+          }
+        },
+        {
+          "id": "com.github.fnar:roguelike:2.4.1@jar",
+          "name": "Roguelike Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 897282,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/RoguelikeDungeonsFnarEdition-1.12.2-2.4.1.jar",
+            "MD5": "68623570e5dedb8ecd102c81ae824dfb"
+          }
+        },
+        {
+          "id": "rtg:rtg:6.1.0.0-snapshot.1@jar",
+          "name": "Realistic Terrain Generation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2075023,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/RTG-1.12.2-6.1.0.0-snapshot.1.jar",
+            "MD5": "08de37000d2c97ffc9c6da61f3cd6aaa"
+          }
+        },
+        {
+          "id": "cn.mcmod:sakura:1.0.7-1.12.2@jar",
+          "name": "Sakura",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2805482,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Sakura-1.0.7-1.12.2.jar",
+            "MD5": "e0c01ed0bc7d4d5b9cfba5841cd55cdc"
+          }
+        },
+        {
+          "id": "sereneseasons.core:sereneseasons:1.2.18@jar",
+          "name": "Serene Seasons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 185187,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/SereneSeasons-1.12.2-1.2.18-universal.jar",
+            "MD5": "ef89fab62d1914ea0e25d2c31b453695"
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
+          "name": "Storage Drawers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 605947,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/StorageDrawers-1.12.2-5.4.2.jar",
+            "MD5": "0f658c7cba3e6793abbcb934b4810902"
+          }
+        },
+        {
+          "id": "slimeknights.tconstruct:tconstruct:1.12.2-2.13.0.183@jar",
+          "name": "Tinkers' Construct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4023372,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/TConstruct-1.12.2-2.13.0.183.jar",
+            "MD5": "710d64342d41042b7d6ced891448e727"
+          }
+        },
+        {
+          "id": "cofh.thermalexpansion:thermalexpansion:5.5.7.1@jar",
+          "name": "Thermal Expansion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2345139,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+            "MD5": "0bf91e166b05e83d22455a9c7ec395bb"
+          }
+        },
+        {
+          "id": "cofh.thermalfoundation:thermalfoundation:2.6.7.1@jar",
+          "name": "Thermal Foundation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2219736,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+            "MD5": "6eca041bbf28949b60ecf1179d561156"
+          }
+        },
+        {
+          "id": "net.torocraft:torohealthmod:1.12.2-11@jar",
+          "name": "ToroHealth Damage Indicators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66307,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/torohealth-1.12.2-11.jar",
+            "MD5": "44a01eff9632e994de91c6e703f6dc01"
+          }
+        },
+        {
+          "id": "twilightforest:twilightforest:3.11.1021@jar",
+          "name": "The Twilight Forest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28721862,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/twilightforest-1.12.2-3.11.1021-universal.jar",
+            "MD5": "0933760943721154f3208782306f04d6"
+          }
+        },
+        {
+          "id": "portablejim.veinminer:veinminer:0.38.2@jar",
+          "name": "Vein Miner",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 128682,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/VeinMiner-1.12-0.38.2.647+b31535a.jar",
+            "MD5": "da20e4ec485fe0969cffbde0d42c8338"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:4.1.0@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178994,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/Waystones_1.12.2-4.1.0.jar",
+            "MD5": "5159122949ffb79b80a341135673e8f8"
+          }
+        },
+        {
+          "id": "weather2:weather2:1.12.1-2.6.12@jar",
+          "name": "Localized Weather & Storms",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4550732,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/private-1.12.2/forgemods/required/weather2-1.12.1-2.6.12.jar",
+            "MD5": "486d7c789eb29050aa7b04dc5c834c50"
+          }
+        }
+      ]
     }
   ]
 }
