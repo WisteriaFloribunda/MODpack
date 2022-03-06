@@ -353,6 +353,16 @@
           }
         },
         {
+          "id": "vazkii.botania:botania:r1.10-364.4@jar",
+          "name": "Botania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13817704,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Botania+r1.10-364.4.jar",
+            "MD5": "7a19779fa19e37cb9fb49a0a1770332b"
+          }
+        },
+        {
           "id": "buildcraft.compat:buildcraftlib:7.99.24.8@jar",
           "name": "BuildCraft Lib",
           "type": "ForgeMod",
@@ -558,23 +568,23 @@
           }
         },
         {
-          "id": "defeatedcrow.hac.core:dcs_lib:3.8.4@jar",
+          "id": "defeatedcrow.hac.core:dcs_lib:3.8.6@jar",
           "name": "HeatAndClimateLib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1049068,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/HeatAndClimateLib_1.12.2-3.8.4.jar",
-            "MD5": "32f2c1d4f512910b9809ab0de684fd56"
+            "size": 1049046,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/HeatAndClimateLib_1.12.2-3.8.6.jar",
+            "MD5": "758fa0606d84a6d19c77d23cb9c83a16"
           }
         },
         {
-          "id": "defeatedcrow.hac.main:dcs_climate:3.8.10@jar",
+          "id": "defeatedcrow.hac.main:dcs_climate:3.8.12@jar",
           "name": "HeatAndClimateMod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 14685021,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/HeatAndClimateMod_1.12.2-3.8.10.jar",
-            "MD5": "477f1afe5d946470d986f3d94fe55556"
+            "size": 14792996,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/HeatAndClimateMod_1.12.2-3.8.12.jar",
+            "MD5": "1925e8380c3afba8ebde7b82be8e1808"
           }
         },
         {
@@ -772,6 +782,20 @@
             "size": 2223390,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/Sledgehammer-1.12.2-2.0.16.jar",
             "MD5": "8128f725475ef1b6c8f7c636134738b1"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "generated.forgemod:mod_SpawnChecker:125v8 #93@jar",
+          "name": "SpawnChecker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 146133,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/SpawnChecker_125v8_#93.zip",
+            "MD5": "51afbf15fe1be6589427a9fe287f9d8f"
           },
           "required": {
             "value": false,
