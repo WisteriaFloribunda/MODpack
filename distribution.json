@@ -789,20 +789,6 @@
           }
         },
         {
-          "id": "generated.forgemod:mod_SpawnChecker:125v8 #93@jar",
-          "name": "SpawnChecker",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 146133,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionaloff/SpawnChecker_125v8_#93.zip",
-            "MD5": "51afbf15fe1be6589427a9fe287f9d8f"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
