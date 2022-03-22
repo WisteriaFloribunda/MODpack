@@ -853,6 +853,19 @@
           }
         },
         {
+          "id": "squeek.wailaharvestability:wailaharvestability:1.1.12@jar",
+          "name": "Waila Harvestability",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31462,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/optionalon/WailaHarvestability-mc1.12-1.1.12.jar",
+            "MD5": "0bd8765ff3064be336cb1b09208e410c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.blay09.mods:waystones:4.1.0@jar",
           "name": "Waystones",
           "type": "ForgeMod",
