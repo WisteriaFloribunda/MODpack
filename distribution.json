@@ -668,6 +668,16 @@
           }
         },
         {
+          "id": "net.montoyo:mcef:1.12.2-0.9@jar",
+          "name": "Minecraft Chromium Embedded Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 323311,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/mcef-1.12.2-0.9.jar",
+            "MD5": "dbdb8e026ec019f49ea873c9c2a130b3"
+          }
+        },
+        {
           "id": "micdoodle8.mods.miccore:micdoodlecore:1.12.2-4.0.2.280@jar",
           "name": "MicdoodleCore",
           "type": "ForgeMod",
@@ -873,6 +883,16 @@
             "size": 178994,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Waystones_1.12.2-4.1.0.jar",
             "MD5": "5159122949ffb79b80a341135673e8f8"
+          }
+        },
+        {
+          "id": "net.montoyo.wd:webdisplays:1.12.2-1.0@jar",
+          "name": "WebDisplays",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 688747,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/webdisplays-1.12.2-1.0.jar",
+            "MD5": "a54bcecab7c5c3212fccc31be73dea38"
           }
         }
       ]
@@ -2452,26 +2472,6 @@
             "size": 323311,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/video-1.12.2/forgemods/required/mcef-1.12.2-0.9.jar",
             "MD5": "dbdb8e026ec019f49ea873c9c2a130b3"
-          }
-        },
-        {
-          "id": "com.sintinium:oauth:1.06.2@jar",
-          "name": "OAuth",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 50636,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/video-1.12.2/forgemods/required/oauth-1.06.2.jar",
-            "MD5": "ebfa52ff86a4f14ea30d06468827e64b"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
-          "name": "OptiFine 1.12.2_HD_U_G5",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2669107,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/video-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
-            "MD5": "54e561e441192cf009803ae95873c5d0"
           }
         },
         {
