@@ -668,6 +668,16 @@
           }
         },
         {
+          "id": "net.montoyo:mcef:1.12.2-1.11@jar",
+          "name": "Minecraft Chromium Embedded Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 344339,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/mcef-1.12.2-1.11.jar",
+            "MD5": "7d138063173928704c19a68c58c62f5d"
+          }
+        },
+        {
           "id": "micdoodle8.mods.miccore:micdoodlecore:1.12.2-4.0.2.280@jar",
           "name": "MicdoodleCore",
           "type": "ForgeMod",
@@ -873,6 +883,16 @@
             "size": 178994,
             "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/Waystones_1.12.2-4.1.0.jar",
             "MD5": "5159122949ffb79b80a341135673e8f8"
+          }
+        },
+        {
+          "id": "net.montoyo.wd:webdisplays:1.12.2-1.1@jar",
+          "name": "WebDisplays",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 712307,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/webdisplays-1.12.2-1.1.jar",
+            "MD5": "d6d94a8075955f3d955ed866a5d344c9"
           }
         }
       ]
