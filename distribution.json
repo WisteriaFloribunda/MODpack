@@ -668,13 +668,13 @@
           }
         },
         {
-          "id": "net.montoyo:mcef:1.12.2-1.11@jar",
+          "id": "net.montoyo:mcef:1.12.2-0.9@jar",
           "name": "Minecraft Chromium Embedded Framework",
           "type": "ForgeMod",
           "artifact": {
-            "size": 344339,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/mcef-1.12.2-1.11.jar",
-            "MD5": "7d138063173928704c19a68c58c62f5d"
+            "size": 323311,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/mcef-1.12.2-0.9.jar",
+            "MD5": "dbdb8e026ec019f49ea873c9c2a130b3"
           }
         },
         {
@@ -886,13 +886,13 @@
           }
         },
         {
-          "id": "net.montoyo.wd:webdisplays:1.12.2-1.1@jar",
+          "id": "net.montoyo.wd:webdisplays:1.12.2-1.0@jar",
           "name": "WebDisplays",
           "type": "ForgeMod",
           "artifact": {
-            "size": 712307,
-            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/webdisplays-1.12.2-1.1.jar",
-            "MD5": "d6d94a8075955f3d955ed866a5d344c9"
+            "size": 688747,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/LucaMOD-1.12.2/forgemods/required/webdisplays-1.12.2-1.0.jar",
+            "MD5": "a54bcecab7c5c3212fccc31be73dea38"
           }
         }
       ]
