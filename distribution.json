@@ -2455,6 +2455,16 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/video-1.12.2/forgemods/required/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          }
+        },
+        {
           "id": "net.montoyo.wd:webdisplays:1.12.2-1.0@jar",
           "name": "WebDisplays",
           "type": "ForgeMod",
