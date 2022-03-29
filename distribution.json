@@ -2455,6 +2455,16 @@
           }
         },
         {
+          "id": "com.sintinium:oauth:1.06.2@jar",
+          "name": "OAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50636,
+            "url": "https://github.com/WisteriaFloribunda/MODpack/raw/main/servers/video-1.12.2/forgemods/required/oauth-1.06.2.jar",
+            "MD5": "ebfa52ff86a4f14ea30d06468827e64b"
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
           "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
